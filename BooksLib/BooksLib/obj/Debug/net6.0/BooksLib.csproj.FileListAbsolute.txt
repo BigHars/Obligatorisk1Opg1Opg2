@@ -1,0 +1,12 @@
+C:\Users\hasse\source\repos\BooksLib\BooksLib\bin\Debug\net6.0\BooksLib.deps.json
+C:\Users\hasse\source\repos\BooksLib\BooksLib\bin\Debug\net6.0\BooksLib.dll
+C:\Users\hasse\source\repos\BooksLib\BooksLib\bin\Debug\net6.0\BooksLib.pdb
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.csproj.AssemblyReference.cache
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.AssemblyInfoInputs.cache
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.AssemblyInfo.cs
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.csproj.CoreCompileInputs.cache
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.dll
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\refint\BooksLib.dll
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\BooksLib.pdb
+C:\Users\hasse\source\repos\BooksLib\BooksLib\obj\Debug\net6.0\ref\BooksLib.dll
